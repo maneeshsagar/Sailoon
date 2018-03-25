@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sailoon.iml" filepath="$PROJECT_DIR$/Sailoon.iml" />
+      <module fileurl="file://C:\Users\Mayank\Documents\Gitprojects\Sailoon\Sailoon.iml" filepath="C:\Users\Mayank\Documents\Gitprojects\Sailoon\Sailoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Mayank\Documents\Gitprojects\Sailoon\app\app.iml" filepath="C:\Users\Mayank\Documents\Gitprojects\Sailoon\app\app.iml" />
     </modules>
   </component>
 </project>
